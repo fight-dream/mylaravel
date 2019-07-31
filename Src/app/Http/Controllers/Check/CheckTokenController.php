@@ -17,4 +17,9 @@ class CheckTokenController extends Controller
     {
         echo "未满十八岁禁止上路";
     }
+
+    public function gitLearn()
+    {
+        echo "git提交的变化";
+    }
 }
