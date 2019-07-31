@@ -20,6 +20,6 @@ class CheckTokenController extends Controller
 
     public function gitLearn()
     {
-        echo "git提交的变化";
+        echo "git cesi 提交的变化";
     }
 }
