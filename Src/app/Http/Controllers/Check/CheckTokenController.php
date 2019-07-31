@@ -22,4 +22,9 @@ class CheckTokenController extends Controller
     {
         echo "git提交的变化";
     }
+
+    public function gitChange()
+    {
+        echo "git测试分支变化";
+    }
 }
