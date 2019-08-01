@@ -27,4 +27,9 @@ class CheckTokenController extends Controller
     {
         echo "git测试分支变化";
     }
+
+    public function githe()
+    {
+        echo "git测试分支合并保存";
+    }
 }
